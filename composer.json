@@ -1,0 +1,13 @@
+{
+    "name": "mgt/developertoolbar",
+    "description": "Magento Developer Toolbar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefan Wieczorek",
+            "email": "stefan.wieczorek@mgt-commerce.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
